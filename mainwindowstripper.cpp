@@ -1,6 +1,7 @@
 #include "mainwindowstripper.h"
 #include "ui_mainwindowstripper.h"
 #include <QtGui>
+#include <QFileDialog>
 #include <QImage>
 
 MainWindowStripper::MainWindowStripper(QWidget *parent) :
